@@ -1,0 +1,12 @@
+# Node
+node_modules/
+.env
+dist/
+
+# .NET
+bin/
+obj/
+*.db
+
+# OS
+.DS_Store 
